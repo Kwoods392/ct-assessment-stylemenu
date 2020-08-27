@@ -5,7 +5,8 @@
 */
 
 body {
-  font-family: "Oswald" 14px;
+  font-family: "Oswald";
+  font-size: 14px;
 }
 
 nav {
